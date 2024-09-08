@@ -6,6 +6,7 @@ using namespace std;
 int main() {
     // ================ Swap ================
     int a = 1, b = 2;
+    int c = 100;
     int temp = a;
 
     cout << " ------ " << endl;
