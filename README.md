@@ -1,1 +1,1 @@
-Basic features, conditional, loops, array, search, sort, etc: C++
+Basic features, conditional statements, loops, array, search, sort, etc: C++
