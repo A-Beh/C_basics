@@ -14,6 +14,7 @@ int main() {
     cout << "b before swap: " << b << endl;
 
     // Swap values
+    temp = a;
     a = b;
     b = temp;
 

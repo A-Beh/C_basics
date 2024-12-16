@@ -22,7 +22,7 @@ int main() {
         case 3:
             cout << "Chilly Weather" <<endl;
             break;
-        case 44:
+        case 4:
             cout << "Cold Weather" <<endl;
             break;
         default:
@@ -43,7 +43,7 @@ int main() {
     else
     {
         cout << "Get out" << endl;
-        cout << "It's too oo early or too late to have fun like this!" << endl;
+        cout << "It's too early or too late to have fun like this!" << endl;
     }
             
     return 0;
